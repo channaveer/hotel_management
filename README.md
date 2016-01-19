@@ -1,5 +1,7 @@
 Hotel Management Installation Steps
 
+Note - Maker sure to enable "short_open_tag=On" in your 'php.ini' file.
+
 1. Copy the unzipped project folder to www/htdocs location and change the project name to 'hotel' 
 
 	OR
