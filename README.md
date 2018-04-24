@@ -1,3 +1,7 @@
+<h1>NOTE : THIS PROJECT IS MORE MAINTAINED. PLEASE DONT USE IT. THIS PROJECT IS CLONED FROM THE FOLLOWING LINK, IN CASE ANY QUERIES OR ANY ISSUES PLEASE FOLLOW THIS https://github.com/tugbadogan/hotelmanagement.</h1>
+
+
+
 Hotel Management Installation Steps
 
 Note - Maker sure to enable "short_open_tag=On" in your 'php.ini' file.
